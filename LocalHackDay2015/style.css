@@ -1,0 +1,16 @@
+#sourcecode{
+	display: none;
+}
+body{
+	background-color: black;
+	font-family: monospace;
+	color: #00ff00; 
+}
+pre{
+	display: inline;
+}
+span{
+    margin-left: -2px;
+	font-weight: bolder;
+	display: inline;
+}
