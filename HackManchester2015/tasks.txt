@@ -1,0 +1,31 @@
+Tasks : 
+
+Kasper: 
+- algorithm for the best road
+- how to link the apis
+
+Cristi: 
+- google maps api
+- figure out how to get waypoints
+
+Mikhail: 
+- police api
+
+Jeff: 
+- front end html css
+- clock work api
+
+
+How to make the project in steps : 
+1 .
+- show the map
+- begining and destination
+- how safe you are at the moment
+
+
+
+form : 
+
+- starting location check box for here
+- target location 
+- input accuracy nr of months (optional)

@@ -1,0 +1,9 @@
+script : 
+
+Start whith a slide with Roles on it. And each of us talks about our contribution : 2 sec eachs
+
+Mikhail : police api
+Kasper : shiny markers, maps themes
+Jeff : front end, messaging api
+cristi : google maps api
+
